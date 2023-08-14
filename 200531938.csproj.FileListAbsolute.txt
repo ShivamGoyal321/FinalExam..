@@ -1,0 +1,7 @@
+C:\Users\shiva\source\repos\200531938\200531938\obj\Debug\net6.0\200531938.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\200531938\200531938\obj\Debug\net6.0\200531938.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\200531938\200531938\obj\Debug\net6.0\200531938.AssemblyInfo.cs
+C:\Users\shiva\source\repos\200531938\200531938\obj\Debug\net6.0\200531938.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\200531938\200531938\obj\Debug\net6.0\200531938.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shiva\source\repos\200531938\200531938\obj\Debug\net6.0\200531938.RazorAssemblyInfo.cache
+C:\Users\shiva\source\repos\200531938\200531938\obj\Debug\net6.0\200531938.RazorAssemblyInfo.cs
